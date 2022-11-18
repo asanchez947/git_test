@@ -1,0 +1,3 @@
+I don't know why they made me create this file but ok. I'll just
+use this to test a few things first. Pretty much just works like
+a notepad.
